@@ -1,0 +1,45 @@
+.abc{
+    float:right ;
+    margin:0 200px 10px 30px;
+}
+.abcd{
+    float:right ;
+    margin:10px 100px 0 30px;
+}
+h2{
+    margin:10px 20px 0 20px;
+    background-color: rgb(242, 116, 116);
+    padding: 10px 10px;
+}
+
+h3{
+    margin:0 20px 0 20px;
+    background-color: rgb(177, 177, 214);
+    padding: 5px 5px;
+}
+*{
+    background-color: rgb(234,235,241);
+}
+.r1{
+    margin:0 0 0 250px;
+    border-style:double;
+}
+p,h4{
+    margin:0 20px 0 20px;
+}
+.bold{
+    margin:0 20px 0 20px;
+}
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(168, 29, 29);
+}
+a:hover{
+    color: rgb(24, 24, 107);
+}
+.xyz{
+    background-color: rgb(242, 116, 116);
+}
