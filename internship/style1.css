@@ -1,0 +1,32 @@
+
+h2{
+    font-size: xx-large;
+    padding: 15px;
+}
+h3{
+    font-size: x-large;
+    padding: 10px;
+}
+h4{
+    font-size: x-large;
+}
+*{
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: url(background.jpg);
+}
+a{
+    color:rgb(188, 18, 18);
+    text-decoration: none;
+}
+a:hover{
+    color:blue;
+}
+.square{
+    transform: translate(20%,0);
+    text-align: center;
+    height:20px;
+    width: 600px;
+}
+    
+
